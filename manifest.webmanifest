@@ -1,0 +1,14 @@
+{
+  "name": "NIDSG Attendance Register",
+  "short_name": "NIDSG",
+  "description": "Offline attendance register for events — search people and mark who attends each day.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F4F6F3",
+  "theme_color": "#00795D",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
